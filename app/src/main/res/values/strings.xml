@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Soccer Quiz</string>
+    <string name="btnSubmitTxt">Submit and check</string>
+    <string name="question_10_txt">question 10</string>
+</resources>
